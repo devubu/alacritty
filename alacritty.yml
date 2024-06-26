@@ -3,7 +3,6 @@ env:
 
 window:
   opacity: 1.00
-  # opacity: 0.95
   # dimensions:
   #   columns: 133
   #   lines: 40
