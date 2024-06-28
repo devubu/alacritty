@@ -41,7 +41,7 @@ magenta = "#962AC3"
 cyan = "#05A1F7"
 white = "#FFFFFF"
 
-[[key_bindings]]
+[[keyboard.bindings]]
 key = "Return"
 mods = "Super|Shift"
 action = "SpawnNewInstance"
